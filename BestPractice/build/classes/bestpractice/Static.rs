@@ -1,0 +1,2 @@
+bestpractice.A
+bestpractice.StaticInitializationBlock

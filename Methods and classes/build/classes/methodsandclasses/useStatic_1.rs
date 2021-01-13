@@ -1,0 +1,1 @@
+methodsandclasses.useStatic

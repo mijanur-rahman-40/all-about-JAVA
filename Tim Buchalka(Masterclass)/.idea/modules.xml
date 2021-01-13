@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/10. Java Generics/10. Java Generics.iml" filepath="$PROJECT_DIR$/10. Java Generics/10. Java Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.Variable, Datatype and Operators/3.Variable, Datatype and Operators.iml" filepath="$PROJECT_DIR$/3.Variable, Datatype and Operators/3.Variable, Datatype and Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4. Java Tutorial Expressions, Statements/4. Java Tutorial Expressions, Statements.iml" filepath="$PROJECT_DIR$/4. Java Tutorial Expressions, Statements/4. Java Tutorial Expressions, Statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5. Control flow statement/5. Control flow statement.iml" filepath="$PROJECT_DIR$/5. Control flow statement/5. Control flow statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.OPP part - 1(Class, constructor and Inheritence)/6.OPP part - 1(Class, constructor and Inheritence).iml" filepath="$PROJECT_DIR$/6.OPP part - 1(Class, constructor and Inheritence)/6.OPP part - 1(Class, constructor and Inheritence).iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.OOP Part-2(Composition, Encapsulation, Polymorphism)/7.OOP Part-2(Composition, Encapsulation, Polymorphism).iml" filepath="$PROJECT_DIR$/7.OOP Part-2(Composition, Encapsulation, Polymorphism)/7.OOP Part-2(Composition, Encapsulation, Polymorphism).iml" />
+      <module fileurl="file://$PROJECT_DIR$/8.Array, Java inbuilt Lists, Autoboxing and Unboxing/8.Array, Java inbuilt Lists, Autoboxing and Unboxing.iml" filepath="$PROJECT_DIR$/8.Array, Java inbuilt Lists, Autoboxing and Unboxing/8.Array, Java inbuilt Lists, Autoboxing and Unboxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9. Inner and Abstract Classes &amp; Interfaces/9. Inner and Abstract Classes &amp; Interfaces.iml" filepath="$PROJECT_DIR$/9. Inner and Abstract Classes &amp; Interfaces/9. Inner and Abstract Classes &amp; Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Garbage/Garbage.iml" filepath="$PROJECT_DIR$/Garbage/Garbage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.OOP Part-2(Composition, Encapsulation, Polymorphism)/build/classes/classes.iml" filepath="$PROJECT_DIR$/7.OOP Part-2(Composition, Encapsulation, Polymorphism)/build/classes/classes.iml" />
+    </modules>
+  </component>
+</project>

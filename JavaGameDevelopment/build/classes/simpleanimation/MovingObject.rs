@@ -1,0 +1,1 @@
+simpleanimation.movingobject
